@@ -14,6 +14,18 @@ Simply fill in your information, choose a template, and customize your resume to
 6. JSpdf
 7. React-hook-form
 
+## Pages
+* Home (Resume Templates) -Choose one from the available templates ;
+ <br/> -Navigated to details filling page
+* My Resume - From where you can see your resume before downloading 
+* About us
+
+  
+# Contact
+If you have any questions or need further assistance, please contact [chauhanankitkumar8@gmail.com].<br/>
+
+Enjoy working with this React project, and feel free to customize it to your specific needs! We welcome your contributions and hope it serves as a valuable resource for your web development endeavors.<br/>
+
 ## deployment:
 ak-resume-builder-app.netlify.app
 
