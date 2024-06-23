@@ -43,7 +43,7 @@ const Template1 = (props) => {
       elevation={3}>
       <TemplateHeader
      
-        primaryColor={" #800000"}
+        primaryColor={"white"}
         secondaryColor={"white"}
         bgColor={"#800000"}
         personalInfo={personalinfo}
